@@ -1,6 +1,6 @@
 # JavaScript
 
-Sample Tree
+# Sample Tree
 var tree = new Tree('one');
 
 tree._root.children.push(new Node('two'));
